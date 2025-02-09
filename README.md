@@ -1,4 +1,4 @@
-This Pong game was created with the help of Python Turtle GUI. 
+This Pong game was created with the help of Python Turtle GUI.
 Requirements: 
   - latest version of Python (game was created with version 3.13)
     
